@@ -1,1 +1,3 @@
-alert("This is an important message!");
+myFunction () {
+  alert("This is an important message!");
+}
