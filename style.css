@@ -2,8 +2,8 @@ body{
 background-color:#F5FFFA;
 }
 tr{
-  color:#DCDCDC;
+  color: red;
 }
 td{
-  color:#FAFAFA;
+  color: blue;
 }
