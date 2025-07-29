@@ -1,1 +1,1 @@
-alert("This is an important message!");
+alert("Your Browser is Hacked");
