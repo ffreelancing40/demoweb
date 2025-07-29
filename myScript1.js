@@ -1,3 +1,1 @@
-myFunction () {
-  alert("This is an important message!");
-}
+alert("This is an important message!");
